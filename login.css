@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(247, 165, 215);
+    color: rgb(0, 0, 0);
+}
+
+.title{
+    margin: 2%;
+}
+
+.form-control{
+    width: 30% !important;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+
